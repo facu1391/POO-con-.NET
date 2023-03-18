@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\.NET C#\AppTurnos\AppTurno\AppTurno\bin\Debug\net6.0\AppTurno.exe
+C:\Users\Usuario\Documents\.NET C#\AppTurnos\AppTurno\AppTurno\bin\Debug\net6.0\AppTurno.deps.json
+C:\Users\Usuario\Documents\.NET C#\AppTurnos\AppTurno\AppTurno\bin\Debug\net6.0\AppTurno.runtimeconfig.json
+C:\Users\Usuario\Documents\.NET C#\AppTurnos\AppTurno\AppTurno\bin\Debug\net6.0\AppTurno.dll
+C:\Users\Usuario\Documents\.NET C#\AppTurnos\AppTurno\AppTurno\bin\Debug\net6.0\AppTurno.pdb
+C:\Users\Usuario\Documents\.NET C#\AppTurnos\AppTurno\AppTurno\obj\Debug\net6.0\AppTurno.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\.NET C#\AppTurnos\AppTurno\AppTurno\obj\Debug\net6.0\AppTurno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\.NET C#\AppTurnos\AppTurno\AppTurno\obj\Debug\net6.0\AppTurno.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\.NET C#\AppTurnos\AppTurno\AppTurno\obj\Debug\net6.0\AppTurno.AssemblyInfo.cs
+C:\Users\Usuario\Documents\.NET C#\AppTurnos\AppTurno\AppTurno\obj\Debug\net6.0\AppTurno.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\.NET C#\AppTurnos\AppTurno\AppTurno\obj\Debug\net6.0\AppTurno.dll
+C:\Users\Usuario\Documents\.NET C#\AppTurnos\AppTurno\AppTurno\obj\Debug\net6.0\refint\AppTurno.dll
+C:\Users\Usuario\Documents\.NET C#\AppTurnos\AppTurno\AppTurno\obj\Debug\net6.0\AppTurno.pdb
+C:\Users\Usuario\Documents\.NET C#\AppTurnos\AppTurno\AppTurno\obj\Debug\net6.0\AppTurno.genruntimeconfig.cache
+C:\Users\Usuario\Documents\.NET C#\AppTurnos\AppTurno\AppTurno\obj\Debug\net6.0\ref\AppTurno.dll
